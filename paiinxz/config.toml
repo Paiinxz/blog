@@ -22,7 +22,7 @@ enableEmoji = true
 
   [[menu.main]]
     name = "About Me"
-    url = "/about/"
+    url = "/about/aboutme.md"
     weight = 4
 
 [params]
