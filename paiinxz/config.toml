@@ -2,3 +2,24 @@ baseURL = 'https://paiinxz.github.io/'
 languageCode = 'en-us'
 title = 'Paiinxz'
 theme = "LoveIt"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Writeups"
+    url = "/writeups/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About Me"
+    url = "/about/"
+    weight = 4
