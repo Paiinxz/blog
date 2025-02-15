@@ -2,6 +2,7 @@ baseURL = 'https://paiinxz.github.io/'
 languageCode = 'en-us'
 title = 'Paiinxz'
 theme = "LoveIt"
+enableEmoji = true
 
 [menu]
   [[menu.main]]
@@ -23,3 +24,18 @@ theme = "LoveIt"
     name = "About Me"
     url = "/about/"
     weight = 4
+
+[params]
+  dateFormat = "02-01-2006"
+  title = "Paiinxz"
+  description = "Cybersecurity student and CTF player."
+
+# Header config
+[params.header]
+  desktopMode = "fixed"
+  mobileMode = "auto"
+
+[params.header.title]
+  logo = "https://avatars.githubusercontent.com/u/192268670?v=4"
+  name = "Paiinxz"
+  typeit = false
