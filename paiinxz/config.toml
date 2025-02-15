@@ -1,0 +1,4 @@
+baseURL = 'https://paiinxz.github.io/'
+languageCode = 'en-us'
+title = 'Paiinxz'
+theme = "LoveIt"

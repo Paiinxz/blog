@@ -1,0 +1,4 @@
+[submodule "paiinxz/public"]
+	path = paiinxz/public
+	url = https://github.com/Paiinxz/paiinxz.github.io.git
+	branch = main
