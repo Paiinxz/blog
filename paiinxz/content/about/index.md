@@ -1,5 +1,5 @@
 ---
-title: "./about"
+title: "About Me"
 draft: false
 ---
 
@@ -13,9 +13,9 @@ draft: false
 
 ## :(fa-solid fa-pen-to-square): This is my Blog.
 
-Where I am gonna start to post [writeups](/posts) of previous CTF I've done.
+Where I am gonna start to post [writeups](/writeups/) of previous CTF I've done.
 
-I might aswell write some [articles](/articles) about some topics that interest me in cybersecurity.
+I might aswell write some [articles](/articles/) about some topics that interest me in cybersecurity.
 
 ---
 

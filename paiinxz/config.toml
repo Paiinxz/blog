@@ -22,15 +22,12 @@ enableEmoji = true
 
   [[menu.main]]
     name = "About Me"
-    url = "/about/aboutme.md"
+    url = "/about/"
     weight = 4
 
 [params]
-  dateFormat = "02-01-2006"
   title = "Paiinxz"
-  description = "Cybersecurity student and CTF player."
 
-# Header config
 [params.header]
   desktopMode = "fixed"
   mobileMode = "auto"
@@ -38,4 +35,22 @@ enableEmoji = true
 [params.header.title]
   logo = "https://avatars.githubusercontent.com/u/192268670?v=4"
   name = "Paiinxz"
-  typeit = false
+  typeit = true
+
+
+[params.home.profile]
+  enable = true
+  avatarURL = "https://avatars.githubusercontent.com/u/192268670?v=4"
+  title = "Paiinxz"
+  subtitle = "Cybersecurity student and CTF player."
+  typeit = true
+  social = true
+
+[params.social]
+  GitHub = "Paiinxz"
+  Linkedin = "gustavo-nugas"
+  Twitter = "paiinxzz"
+  Discord = "paiinxz"
+  RootMe= "Paiinxz"
+  Email = "paiinxz@proton.me"
+  #RSS = true
