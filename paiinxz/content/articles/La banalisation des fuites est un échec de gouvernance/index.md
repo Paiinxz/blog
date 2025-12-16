@@ -1,5 +1,6 @@
 +++
 date = '2025-12-16T10:34:20+01:00'
+lang = 'FR'
 draft = true
 title = 'La Banalisation Des Fuites Est Un Échec De Gouvernance'
 +++
